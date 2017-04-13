@@ -1,6 +1,6 @@
 #### 扩展按钮点击范围
 
-- 继承UIBUTTON, 重写方法- (CGRECT)BACKGROUNDRECTFORBOUNDS:(CGRECT)CONTENTRECT；决定背景图大小，实际按钮大小可以扩大。
+- 继承UIBUTTON, 重写方法- (CGRect)backgroundRectForBounds:(CGRect)contentRect决定背景图大小，实际按钮大小可以扩大。
 
 #### OC示例代码　
 ```Objective-C
