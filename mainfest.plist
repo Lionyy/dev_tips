@@ -12,7 +12,7 @@
 						<string>software-package</string> 
 						<key>url</key> 
 						<string>
-							<![CDATA[ttps://192.168.44.106/ipa/test.ipa]]>
+							<![CDATA[https://192.168.44.106/ipa/test.ipa]]>
 						</string> 
 					</dict> 
 					<dict> 
